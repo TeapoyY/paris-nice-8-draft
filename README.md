@@ -68,11 +68,11 @@ Draft legendary Paris-Nice cyclists across 6 eras and try to win every stage in 
 | 4 | Tour de Suisse 8-0 🇨🇭 | https://github.com/TeapoyY/tour-de-suisse-8-draft |
 | 5 | Crit. du Dauphiné 8-0 🇫🇷 | https://github.com/TeapoyY/criterium-du-dauphine-8-draft |
 | 6 | Vuelta a España 21-0 🔴 | https://github.com/TeapoyY/vuelta-21-draft |
-| 7 | IndyCar 17-0 🏎️ | https://github.com/TeapoyY/indycar-17-draft |
+| 7 | IndyCar 17-0 🏎&#xfe0f; | https://github.com/TeapoyY/indycar-17-draft |
 | 8 | Formula E 17-0 ⚡ | https://github.com/TeapoyY/formulae-17-draft |
-| 9 | MotoGP 20-0 🏍️ | https://github.com/TeapoyY/motogp-20-draft |
+| 9 | MotoGP 20-0 🏍&#xfe0f; | https://github.com/TeapoyY/motogp-20-draft |
 | 10 | Endurance 24-0 🏁 | https://github.com/TeapoyY/endurance-24-draft |
-| 11 | WRC 13-0 🏔️ | https://github.com/TeapoyY/wrc-13-draft |
+| 11 | WRC 13-0 🏔&#xfe0f; | https://github.com/TeapoyY/wrc-13-draft |
 | 12 | Giro d'Italia 23-0 🌹 | https://github.com/TeapoyY/giro-23-draft |
 | 13 | NASCAR Truck 24-0 | https://github.com/TeapoyY/nascar-truck-24-draft |
 | 14 | Cycling Monuments 5-0 🏆 | https://github.com/TeapoyY/monuments-5-draft |
